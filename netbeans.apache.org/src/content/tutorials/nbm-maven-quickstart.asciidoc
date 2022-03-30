@@ -150,7 +150,7 @@ In this exercise, you create a new module project in the same directory that con
 
 
 [start=1]
-1. Choose File > New Project from the main menu. Select NetBeans Module from the Maven category:
+1. Expand the Modules directory under the parent module. Right click and choose "Create New Module". Select NetBeans Module from the Maven category:
 
 
 image::images/maven-quickstart_72_new-module-1.png[title="Screenshot of New Project wizard"]
